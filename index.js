@@ -207,10 +207,9 @@ function closeVideo(){
  */
 
 const typed = new Typed('#prompts-sample', {
-    strings: ["How to solve a rubik's cube? Step by step guide", 
-                "What's Hiremod playground?", 
-                "How to build an AI SaaS App?", 
-                "How to integrate Hiremod API?"],
+    strings: ["We're hiring a new product manager", 
+                "Skills required: Software Engineering, Product Management, Leadership",  
+                "How to integrate other ATS to Hiremod?"],
     typeSpeed: 80,
     smartBackspace: true, 
     loop: true,
